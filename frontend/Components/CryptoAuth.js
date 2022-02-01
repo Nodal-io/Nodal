@@ -8,31 +8,31 @@ import { useWalletConnect } from "../WalletConnect";
 const {width, height} = Dimensions.get('screen');
 const Background = ['#EEEEEE', '#EEEEEE', '#EEEEEE', '#EEEEEE', '#EEEEEE',];
 const Screen = [
-  {
-    "Title": "Connect Your Wallet",
-    "Feature": "",
-    "Image": "https://Image.flaticon.com/icons/png/256/3571/3571572.png"
-  },
-  {
-    "Title": "Find Your Community",
-    "Feature": "",
-    "Image": "https://cdn-icons.flaticon.com/png/512/4127/premium/4127852.png?token=exp=1643657291~hmac=d347a6e47a2a6eb543cc662600b96726"
-  },
-  {
-    "Title": "Chat with Token Holders",
-    "Feature": "",
-    "Image": "https://cdn-icons-png.flaticon.com/512/4127/4127787.png"
-  },
-  {
-    "Title": "Discover Projects",
-    "Feature": "",
-    "Image": "https://cdn-icons-png.flaticon.com/512/4935/4935359.png"
-  },
-  {
-    "Title": "Welcome to Nodal",
-    "Feature": "",
-    "Image": "https://www.meme-arsenal.com/memes/8c0c25686350812960648355c41ae7d1.jpg"
-  }
+  {
+    "Title": "Connect Your Wallet",
+    "Feature": "",
+    "Image": "https://Image.flaticon.com/icons/png/256/3571/3571572.png"
+  },
+  {
+    "Title": "Find Your Community",
+    "Feature": "",
+    "Image": "https://cdn-icons.flaticon.com/png/512/4531/premium/4531344.png?token=exp=1643687952~hmac=c177bea16bbada4577fc46e5131fba33"
+  },
+  {
+    "Title": "Chat with Token Holders",
+    "Feature": "",
+    "Image": "https://cdn-icons-png.flaticon.com/512/4127/4127787.png"
+  },
+  {
+    "Title": "Discover Projects",
+    "Feature": "",
+    "Image": "https://cdn-icons-png.flaticon.com/512/4935/4935359.png"
+  },
+  {
+    "Title": "Welcome to Nodal",
+    "Feature": "",
+    "Image": "https://www.meme-arsenal.com/memes/8c0c25686350812960648355c41ae7d1.jpg"
+  }
 ]
 
 const LoginScreen = ({ navigation }) => {
