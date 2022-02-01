@@ -31,7 +31,7 @@ const Screen = [
   {
     "Title": "Welcome to Nodal",
     "Feature": "",
-    "Image": "https://www.meme-arsenal.com/memes/8c0c25686350812960648355c41ae7d1.jpg"
+    "Image": "https://i.imgur.com/z19GTez.jpg"
   }
 ]
 
