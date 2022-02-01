@@ -33,5 +33,6 @@ yarn install
 
 Run your App:
 
-- IOS: `yarn ios` for emulator *Make sure you have Xcode or atleast Xcode command line tools installed*
-    -  For physical IOS Device: Open the `moraliscreatereactnativedapp.xcworkspace` from `ios` folder in Xcode. Run the App by choosing your connected physical device.  
+- IOS: 
+- For physical IOS Device: Open the `moraliscreatereactnativedapp.xcworkspace` from `ios` folder in Xcode. Run the App by choosing your connected physical device. 
+- Next navigate to Signing & Capabilities: Change team to Personal Team & set a custom Bundle Identifier
