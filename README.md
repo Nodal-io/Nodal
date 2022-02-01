@@ -34,6 +34,6 @@ yarn install
 Run your App:
 
 - IOS: 
-- For physical IOS Device: Open the `moraliscreatereactnativedapp.xcworkspace` from `ios` folder in Xcode. Run the App by choosing your connected physical device. 
-- Next navigate to Signing & Capabilities: Change team to Personal Team & set a custom Bundle Identifier
-- Build!
+-  For physical IOS Device: Open the `moraliscreatereactnativedapp.xcworkspace` from `ios` folder in Xcode. Run the App by choosing your connected physical device. 
+-  Next navigate to Signing & Capabilities: Change team to Personal Team & set a custom Bundle Identifier
+-  Build!
